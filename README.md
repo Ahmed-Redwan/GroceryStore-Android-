@@ -16,7 +16,6 @@ All the code used, are well organized and layered to make the development precis
 - Perfect pixel (high quality design).
 - Very clean and cool UI.
 - Free updates.
-- License.
 
 **Basic Paid Features(with nominal cost)**
 
@@ -31,7 +30,7 @@ All the code used, are well organized and layered to make the development precis
 - Token Based Authentication.
 - Only COD and offline payment support.
 
-**_For Api integration Please Contact us:- plutonic.in@gmail.com_**
+**_For Api integration Please Contact us:- ahmed4114029@gmail.com_**
 
 **Premium Paid Features**
 - Python django backend.
@@ -50,7 +49,7 @@ All the code used, are well organized and layered to make the development precis
 - Web store front end using React & Redux.
 
 
-**_For premium features Contact us:- plutonic.in@gmail.com_** 
+**_For premium features Contact us:- ahmed4114029@gmail.com_** 
 
 **Upcoming Premium Paid Features**
 - Multi vendor support.
@@ -64,20 +63,14 @@ All the code used, are well organized and layered to make the development precis
 
 
 
-**_For upcoming premium features Contact us:- plutonic.in@gmail.com_**  
+**_For upcoming premium features Contact us:- ahmed4114029@gmail.com_**  
 
-
-* [GroceryStore](https://github.com/plutonicdev/GroceryStore-with-server/blob/master/GroceryStore2.1.apk) - Download APK
-
-* [GroceryStore](https://megagrocerystore.000webhostapp.com/) - Grocery Store Website (Demo)
-
-* [GroceryStoreAdmin](https://megagrocerystore.000webhostapp.com/admin/) - Grocery Store Admin (Demo)
 
 - username/password for Admin Demo :- admin/Admin@2020
 
-- For Backend API & Admin panel source code send email to plutonic.in@gmail.com
+- For Backend API & Admin panel source code send email to ahmed4114029@gmail.com
 
-* [GroceryStore-Android-Ios](https://github.com/plutonicdev/GroceryStore-with-server/blob/master/grocerystore-reactnative.png) - Grocery Store ReactNative (Demo)
+* [GroceryStore-Android-Ios](https://github.com/Ahmed-Redwan/GroceryStore-with-server/blob/master/grocerystore-reactnative.png) - Grocery Store ReactNative (Demo)
 
 
 
